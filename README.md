@@ -1,4 +1,4 @@
-# cd-demo-jd
+# cd-demo-cjl
 A scale and continuous delivery demo using Jenkins on DC/OS.
 - Now updated for adding the Docker build and publish 
 - Works with the latest DC/OS (1.12), Mesosphere Github repo access and Docker credentials
