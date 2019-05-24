@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to James' Continuous Delivery Demonstration!"
+title:  "Welcome to Chris' Continuous Delivery Demonstration!"
 categories: demo
 ---
 
