@@ -4,7 +4,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "jdyver/cd-demo:latest"
+      "image": "clucca13/cd-demo:latest"
     },
     "portMappings": [
       {
